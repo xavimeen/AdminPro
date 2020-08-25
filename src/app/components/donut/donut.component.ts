@@ -1,7 +1,5 @@
 import { Component, Input } from '@angular/core';
-
 import { MultiDataSet, Label, Color } from 'ng2-charts';
-
 
 @Component({
   selector: 'app-donut',
